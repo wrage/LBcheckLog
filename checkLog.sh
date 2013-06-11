@@ -1,3 +1,7 @@
+#!/bin/sh
+
+#usage: checkLog <csv>
+
 checkLog ()
 {
 shopt -s nullglob
